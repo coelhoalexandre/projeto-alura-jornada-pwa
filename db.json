@@ -1,0 +1,36 @@
+{
+  "reservas": [
+    {
+      "id": "5c9b",
+      "data_ida": "2024-07-01",
+      "data_volta": "2024-07-10",
+      "origem": "São Paulo",
+      "destino": "Chile",
+      "tipo": "Pacote Completo"
+    },
+    {
+      "id": "699b",
+      "data_ida": "2024-12-20",
+      "data_volta": "2024-12-25",
+      "origem": "São Paulo",
+      "destino": "Veneza",
+      "tipo": "Pacote de Lua de Mel"
+    },
+    {
+      "id": "6a4a",
+      "data_ida": "2024-12-20",
+      "data_volta": "2024-12-25",
+      "origem": "São Paulo",
+      "destino": "Veneza",
+      "tipo": "Pacote de Lua de Mel"
+    },
+    {
+      "id": "9c1b",
+      "data_ida": "2024-12-20",
+      "data_volta": "2024-12-25",
+      "origem": "São Paulo",
+      "destino": "Veneza",
+      "tipo": "Pacote de Lua de Mel"
+    }
+  ]
+}
