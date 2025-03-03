@@ -1,69 +1,48 @@
-![Jornada Milhas](thumb.png)
+<h1 align="center"> Projeto Jornada PWA </h1>
 
-# Jornada Milhas
+<p align="center">  </p>
 
-Explore o Jornada Milhas: seu guia de viagens para aventuras sem limites! Encontre inspiração, planeje suas jornadas e aproveite ofertas incríveis. Estamos em desenvolvimento e em breve, nossa funcionalidade PWA para acesso rápido em qualquer lugar!
+<div align="center">
 
-![Imagem da aplicação da Jornada Milhas](jornada-milhas.png)
+  <a href="https://github.com/coelhoalexandre/projeto-alura-jornada-pwa/blob/main/LICENSE" target="_blank"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a> <img src="https://img.shields.io/badge/Completo-lightgreen.svg" alt="Completo">
 
-## 🔨 Funcionalidades do projeto
+</div>
 
-Neste estágio de desenvolvimento, o site possui as seguintes funcionalidades:
+## Sumário
 
-- Página estática com pacotes de viagens
-- Responsividade para diferentes dispositivos
-- Roteamento de páginas com React Router DOM
-- A aplicação já é uma PWA, pode ser instalada e funcionar totalmente offline e em baixas conexões de rede
+- [Cursos e Instrutores](#cursos-e-instrutores)
+- [Objetivos do Projeto](#objetivos-do-projeto)
+- [Tecnologias Utilizadas](#tecnolgias-utilizadas)
 
-O [Figma dessa aplicação você encontra aqui](https://www.figma.com/file/C9Hwa6VpPKLSM6pJVCMZgI/Jornada-Milhas-%7C-React-Service-Workers?type=design&node-id=0-1&mode=design&t=rZNRLbySPNz2Ugjf-0).
+## Cursos e Instrutores
 
-## ✔️ Técnicas e tecnologias utilizadas
+|Curso|Instrutores|
+|---|---|
+|[React: transforme sua aplicação web em uma PWA](https://cursos.alura.com.br/course/react-transforme-aplicacao-web-pwa)|[**Neilton Seguins**](https://github.com/NeiltonSeguins)|
+|[React: implemente notificações push e sincronização em background](https://cursos.alura.com.br/course/react-implemente-notificacoes-push-sincronizacao-background)|[**Neilton Seguins**](https://github.com/NeiltonSeguins)|
 
-O projeto utiliza as seguintes tecnologias e bibliotecas:
+## Objetivos do Projeto
+- Conhecer os principais conceitos sobre PWA’s e transforme suas aplicações React em aplicativos instaláveis;
+- Identificar os conceitos essenciais por trás dos Service Workers, incluindo seu ciclo de vida, escopo e capacidades;
+- Implementar estratégias de cache para otimizar o desempenho e a disponibilidade das Progressive Web Apps;
+- Utilizar Service Workers para criar experiências de usuário contínuas, mesmo em condições de conectividade intermitente ou ausente (offline);
+- Utilizar estratégias de cache para otimizar o carregamento de recursos, como imagens, scripts e estilos;
+- Explorar o plugin vitePWA e a biblioteca Workbox para criação de PWA’s em aplicações React;
+- Utilizar a biblioteca Google Workbox para simplificar a criação e gestão de Service Workers;
+- Implementar notificações push em seus PWAs para aumentar o engajamento e a retenção de usuários;
+- Criar campanhas de notificação segmentadas e personalizadas com o Firebase Cloud Messaging;
+- Criar notificações push customizadas;
+- Implementar estratégias de sincronização em background com Service Workers para garantir a funcionalidade offline do seu PWA.
 
-- `React` - Framework JavaScript
-- `Vite` - Build tool para desenvolvimento rápido
-- `VitePWA` - Plugin para criação de PWA's em aplicações com vite
-- `Workbox` - Biblioteca para criação e gerenciamento de PWA's
-- `JavaScript` - Linguagem de programação principal
-- `Styled Components` - Ferramenta de estilização do nosso projeto
-- `Firebase Cloud Messaging` - Serviçoes de mensagens push do Firebase
-- `Figma` - Para prototipagem do projeto
+## Tecnolgias Utilizadas
 
-E muito mais...
+1. HTML
+2. CSS
+3. JS
+4. React
+5. Vite
+6. VitePWA
+7. Workbox
+8. Firebase
 
-## 🛠️ Abrir e rodar o projeto
-
-Para executar o projeto em seu ambiente local, siga estas etapas:
-
-1. Certifique-se de ter o Node.js instalado em sua máquina. Nós usamos a versão 20.10.0
-
-2. Baixe o repositório do projeto.
-
-3. Extraia os arquivos para uma pasta de sua preferência.
-
-4. Navegue até a pasta em questão via terminal (cmd):
-
-```bash
-cd 3787-react-pwa
-```
-
-5. Instale as dependências usando o npm:
-
-```bash
-npm install
-```
-
-6. Inicie o projeto localmente:
-
-```bash
-npm run dev
-```
-
-## 📚 Mais informações do curso
-
-Gostou do projeto e quer conhecer mais?
-
-O design e protótipo deste projeto podem ser encontrados [aqui](https://www.figma.com/file/C9Hwa6VpPKLSM6pJVCMZgI/Jornada-Milhas-%7C-React-Service-Workers?type=design&node-id=0-1&mode=design&t=rZNRLbySPNz2Ugjf-0). 
-
-Aproveite o desenvolvimento e aprimoramento da Jornada Milhas!
+Autor: [Alexandre Coelho](https://github.com/coelhoalexandre)
